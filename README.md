@@ -6,6 +6,7 @@ Tecnicatura Universitaria en Programación
 ✨ Estudiante
 Nombre: Gabriel Maximiliano, Perdomo.
 Comisión: 1C-10.
+
 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
 
